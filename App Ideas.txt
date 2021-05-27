@@ -1,0 +1,26 @@
+
+1. App to call for an emergency
+2. App to identify animals from pictures
+3. App on pollution
+4. App for timetables
+5. App for reading books online
+6. App for blind people to translate
+7. App for converting voice to text
+8. App for offline media and notes
+9. App for an offline map
+10. App to educate farmers 
+11. App to calculate your expenses and savings
+12. App for trading things
+13. App for a balanced diet
+14. App to help find spectacles
+15. App for global warming
+16. App for timings of buses and trains
+17. App for exercises
+18. App for dehydration
+19. App to make a quiz app to suggest a career
+20. App to make the font larger
+21. App that saves passwords and contacts
+22. App to show the weather... gives notification when it rains
+23. App for reminders to avoid prorastination
+24. App to make shifting easier
+25. App to make the phone screen optimized for color blind people
